@@ -1,0 +1,22 @@
+body{
+    background: hwb(0 92% 7%);
+}
+
+img {
+    float: left;
+    height: 350px;
+    width: 400px;
+}
+
+form {
+    padding-left: 410px;
+}
+
+h1 {
+    padding-left: 410px;
+    border-bottom-style:inset;
+}
+
+h3 {
+    padding-left: 410px;
+}

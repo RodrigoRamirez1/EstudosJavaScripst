@@ -1,0 +1,21 @@
+body {
+    background:#F29492;
+}
+img {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+form {
+    padding-left: 310px;
+}
+
+h1 {
+    padding-left: 310px;
+    border-bottom-style:inset;
+}
+
+h3 {
+    padding-left: 310px;
+}
