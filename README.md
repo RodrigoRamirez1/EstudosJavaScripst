@@ -1,4 +1,4 @@
-# Logica-de-Programacao-e-Algoritmos-com-JavaScripst
+# Lógica de Programação e Algoritmos com JavaScripst
 Exercícios realizados através dos conhecimentos adquiridos no livro didático da editora novatec. 
 
 ### 📗Cap01 - [```Introdução```](Cap01)
